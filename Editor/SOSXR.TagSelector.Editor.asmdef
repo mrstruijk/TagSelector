@@ -1,18 +1,18 @@
 {
-    "name": "SOSXR.TagSelector.Editor",
-    "rootNamespace": "",
-    "references": [
-        "GUID:967c91721e0ff42eab58dad50ac1ccd1"
-    ],
-    "includePlatforms": [
-        "Editor"
-    ],
-    "excludePlatforms": [],
-    "allowUnsafeCode": false,
-    "overrideReferences": false,
-    "precompiledReferences": [],
-    "autoReferenced": true,
-    "defineConstraints": [],
-    "versionDefines": [],
-    "noEngineReferences": false
+  "name": "SOSXR.TagSelector.Editor",
+  "rootNamespace": "",
+  "references": [
+    "GUID:967c91721e0ff42eab58dad50ac1ccd1"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
 }
